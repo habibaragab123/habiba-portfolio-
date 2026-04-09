@@ -6,6 +6,12 @@
 ## 👤 About Me
 I am a first-year Information Technology student with a passion for data storytelling. I focus on transforming complex datasets into clear, actionable insights using Power BI and Excel. My goal is to bridge the gap between data and strategic decision-making while constantly improving my technical and communication skills.
 
+## 🛠 Technical Skills
+- **Data Analysis & Visualization:** Power BI, Excel
+- **Data Transformation:** Power Query, Data Cleaning
+- **Database & Modeling:** SQL, DAX
+- **Design:** KPI Design & Dashboard Layout
+
 ---
 
 ### 📉 Project 1: HR Attrition Analysis
